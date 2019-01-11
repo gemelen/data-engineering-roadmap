@@ -14,7 +14,7 @@ in data processing/engineering.
     * Math for programmers
         * Formal syntax
         * Discrete math basics
-* Programming languages
+* [Programming languages](./doc/prog-lang.md)
     * General purpose languages tied with project of interest
     * Scripting languages
     * DSLs
