@@ -19,8 +19,8 @@ in data processing/engineering.
     * Scripting languages
     * DSLs
     * Parsing fundamentals
-* Software engineering
-    * Operation systems fundamentals
+* [Software engineering](./doc/sw-eng.md)
+    * Operating systems fundamentals
     * Networks
     * Performance analysis methodologies and tools
     * Principles of software documentation
