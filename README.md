@@ -5,7 +5,7 @@ in data processing/engineering.
 
 ## Knowledge areas
 
-* Programming fundamentals
+* [Programming fundamentals](./doc/prog-fund.md)
     * Data structures and algorithms
         * Basic data structure
         * Basic algorithms
