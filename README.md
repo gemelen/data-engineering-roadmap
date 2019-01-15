@@ -44,8 +44,11 @@ in data processing/engineering.
         * Security
 * Project management fundamentals
     * Estimation techniques and tools
-* Database fundamentals
+* [Database fundamentals](./doc/db-fund.md)
     * SQL and query optimization
+    * Relational, document, columnar DBMS
+    * Graph DBMS
+    * Distributed databases
     * Schema design
     * General and vendor-specific implementations
 * Data engineering
